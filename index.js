@@ -22,5 +22,5 @@ function prev() {
     }
 }
 var text= prompt("Enter Any Word will you see The Character Length:");
-var text =text length;
+var text =text.length;
 document.write(" Number of Character = "+ text);
